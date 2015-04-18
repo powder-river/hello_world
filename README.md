@@ -5,4 +5,4 @@ the hang of using github
 
 i've noticed this is simlar to the terminal version.
 i just learned all these terminal commands just to discover this 
-graphical interface
+graphical interface!!!
